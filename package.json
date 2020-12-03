@@ -1,0 +1,20 @@
+{
+  "name": "ode-to-iifes",
+  "version": "1.0.0",
+  "description": "An ode to the IIFE, an important pattern often overlooked or misunderstood by modern developers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iife",
+    "javascript",
+    "history",
+    "patterns",
+    "libraries"
+  ],
+  "author": "Ahad Bokhari <ahadbokhari@gmail.com> (https://ahadb.github.io)",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
